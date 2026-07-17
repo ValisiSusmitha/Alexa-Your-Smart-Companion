@@ -1,0 +1,11 @@
+flask
+flask-cors
+google-cloud-speech
+google-cloud-texttospeech
+pillow
+SpeechRecognition
+pyttsx3
+wikipedia
+pyaudio
+pipwin
+requests
